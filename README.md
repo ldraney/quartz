@@ -16,3 +16,8 @@ Quartz v4 features a from-the-ground rewrite focusing on end-user extensibility 
     <img src="https://cdn.jsdelivr.net/gh/jackyzha0/jackyzha0/sponsorkit/sponsors.svg" />
   </a>
 </p>
+
+## Personal Notes
+To start this repo:
+1. run the script from the PDP repo to install masterless minion
+2. run `sudo salt . state.apply npm_setup`
